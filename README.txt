@@ -16,10 +16,10 @@
 
 1- HOW TO RUN THE SIMULATION
    - Download and install Python3 before running the simulation.
-   - Download all of the files and place them in a single directory.
+   - Download all of the library files and place them in a single directory.
    - Run the desired main code - clibration.py, part2_pi0.py or part2_kshort.py
      and follow the instructions in the relevant section below.
-   - In case there is a required library missing, install it using pip:
+   - In case a required library is missing, install it using pip:
      python3 -m pip install LIBRARY_NAME
 
 2- CALIBRATION - calibration.py
