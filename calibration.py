@@ -13,14 +13,14 @@ particle = input('Particle type (see README.txt): ')
 
 # Momentum of the parent particle GeV/c
 min_momentum = input("Particle's momentum (GeV/c): ")
-min_momentum = int(momentum)
+min_momentum = float(min_momentum)
 
 # Step size
 step_size = input("Step size (GeV/c): ")
-step_size = int(step_size)
+step_size = float(step_size)
 
 # Amount of events
-number_of_injections = input("Amount of injections desired: ")
+times = input("Amount of injections desired: ")
 number_of_injections = int(times)
 
 
